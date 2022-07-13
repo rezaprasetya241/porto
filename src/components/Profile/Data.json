@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Profile",
+        "desc": [
+            "Hello my name is Reza Agung Prasetya, i'm student college in Ahmad Dahlan University, Right now i focus to full-stack developer using learn React Js and Node Js for web programming, before learn reactJs and NodeJs i'm learn how to code using python, java for mobile programming and c++, my activity usually learn how to solve problem in codewars"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Skills",
+        "desc": [
+            "Hello my name is Reza Agung Prasetya, i'm student college in Ahmad Dahlan University, Right now i focus to full-stack developer using learn React Js and Node Js for web programming, before learn reactJs and NodeJs i'm learn how to code using python, java for mobile programming and c++, my activity usually learn how to solve problem in codewars"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "CodeWars",
+        "desc": [
+            "Codewars saya sudah rank 4",
+            "nama saya reza",
+            "Hello my name is Reza Agung Prasetya, i'm student college in Ahmad Dahlan University, Right now i focus to full-stack developer using learn React Js and Node Js for web programming, before learn reactJs and NodeJs i'm learn how to code using python, java for mobile programming and c++, my activity usually learn how to solve problem in codewars"
+        ]
+    }
+
+]

@@ -1,0 +1,19 @@
+:root{
+  --bg-color: #24263B;
+  --txt-hover: #FFC72C;
+  --btn-color: #FFC72C;
+  --txt-color: #ffffff;
+}
+body{
+  background: var(--bg-color);
+  margin: 0;
+  padding: 0;
+}
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+.Project{
+  margin-top: 80px;
+}
